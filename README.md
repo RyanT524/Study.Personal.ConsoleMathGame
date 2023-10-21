@@ -1,0 +1,1 @@
+First personal project written in Visual Studio using C#. Small console math game application that allows users to play games of basic math operations and receive a score. Games are saved and can be viewed from the main menu of the app.
